@@ -1,0 +1,18 @@
+Data Type In Python
+
+Number : Integer,Float,Complex Number
+Sequence : List,Tuple,String
+Dictionary
+Set
+
+Mutable Data Type : mutable object can change its state or content and immutable object cannot.
+
+Mutable : List,Dicitionary,Byte array,set
+Immutable : Tuple,Int,Complex,float,string
+
+Property	        List	Tuple	Set	            Dictionary
+Ordered	            Yes	    Yes	    No	            No (until Python 3.6) <br> Yes (Python 3.7+)
+Mutable	            Yes	    No	    Yes	            Yes
+Allows Duplicates	Yes	    Yes	    No	            Keys: No <br> Values: Yes
+Syntax	            []	    ()	    {} or set()	    {} or dict()
+Access by	        Index	Index	Not applicable	Key

@@ -1,0 +1,39 @@
+{
+    "name": "Alice Johnson",
+    "age": 30,
+    "address": {
+        "street": "1234 Main St",
+        "city": "Springfield",
+        "state": "IL",
+        "postalCode": "62704"
+    },
+    "phoneNumbers": [
+        {
+            "type": "home",
+            "number": "555-1234"
+        },
+        {
+            "type": "work",
+            "number": "555-5678"
+        }
+    ],
+    "email": "alice.johnson@example.com",
+    "isEmployed": true,
+    "skills": [
+        "Python",
+        "Data Analysis",
+        "Machine Learning"
+    ],
+    "projects": [
+        {
+            "name": "Project Alpha",
+            "description": "A machine learning project",
+            "technologies": ["Python", "TensorFlow", "Keras"]
+        },
+        {
+            "name": "Project Beta",
+            "description": "A data visualization project",
+            "technologies": ["Python", "Matplotlib", "Seaborn"]
+        }
+    ]
+}
